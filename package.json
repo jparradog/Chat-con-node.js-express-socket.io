@@ -1,0 +1,11 @@
+{
+  "name": "chatnodejs",
+  "subdomain": "johnpg.chat",
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.0-3",
+  "engines": {
+    "node": "0.6.x"
+  }
+}

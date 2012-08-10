@@ -1,0 +1,24 @@
+{
+  "name": "nodeapps-express",
+  "author": {
+    "name": "Nodejitsu Inc.",
+    "email": "support@nodejitsu.com"
+  },
+  "version": "0.1.1",
+  "scripts": {
+    "start": "./app.js"
+  },
+  "dependencies": {
+    "express": "2.5.9",
+    "jade": ">= 0.0.1"
+  },
+  "analyze": false,
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "dist": {
+    "shasum": "f027a955acb588acf7fcce8820e0fd0b37f8700a"
+  }
+}
